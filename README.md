@@ -23,3 +23,6 @@ Atividade de Amanda e Bryan do 4 bimestre, para fazer um cena no Unity com Colli
   ![c6569710-0aa4-4384-84ff-64b99a5ee07a](https://github.com/BryanHGRoc/Cena-Colliders/assets/127855127/793921f7-e528-4467-963e-7fb91d8a56ec)
 
 - Link: https://drive.google.com/drive/folders/1AnhgFHm-yzAO_YW6nEqyq9CK2aXaoY2A?usp=drive_link
+
+# Cena 0.2
+- Adicionamos HUD e Menu
