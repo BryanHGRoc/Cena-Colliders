@@ -26,3 +26,7 @@ Atividade de Amanda e Bryan do 4 bimestre, para fazer um cena no Unity com Colli
 
 # Cena 0.2
 - Adicionamos HUD e Menu
+- Infelizmente não conseguimos fazer a tela de fim de jogo
+
+
+
