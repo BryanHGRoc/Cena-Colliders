@@ -27,6 +27,11 @@ Atividade de Amanda e Bryan do 4 bimestre, para fazer um cena no Unity com Colli
 # Cena 0.2
 - Adicionamos HUD e Menu
 - Não conseguimos fazer a tela de fim de jogo
+- Segue o mesmo Link para a CENA 0.2
+
+![image](https://github.com/BryanHGRoc/Cena-Colliders/assets/127855127/d1af6597-e0c4-45da-8520-15e3cf020acd)
+
+![image](https://github.com/BryanHGRoc/Cena-Colliders/assets/127855127/b837fa28-d7a4-4967-9572-1b1d31c450dd)
 
 
 
