@@ -16,7 +16,7 @@ Atividade de Amanda e Bryan do 4 bimestre, para fazer um cena no Unity com Colli
 ![2ecd9fcb-25c7-4a20-8f11-a2584fe34431](https://github.com/BryanHGRoc/Cena-Colliders/assets/127855127/3a0b81b6-27e7-4474-a231-e9bbd491a3d3)
 
 # Resultado
-- Segue abaixo algumas imagens e um liink de drive pra um vídeo da cena
+- Segue abaixo algumas imagens e um link de drive pra um vídeo da cena
   
   ![47fb675c-7ae1-4683-8f86-5e5cb8057255](https://github.com/BryanHGRoc/Cena-Colliders/assets/127855127/d8e7d306-8e76-4fd0-a492-b8c5b934f9f0)
 
